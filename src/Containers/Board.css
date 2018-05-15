@@ -1,0 +1,17 @@
+.board-container {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    width: 25%;
+}
+
+.square {
+    height: .5rem;
+}
+
